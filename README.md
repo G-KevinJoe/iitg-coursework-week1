@@ -13,8 +13,8 @@ This repository contains my solution for the first assignment of Summer Analytic
 
 Repository Structure
 Week_1/     
-├── Cars.csv                            # Dataset used for the assignment
-├──SA2025_W1.ipynb                      # Jupyter Notebook containing the assignment solution  
+├── Cars.csv   # Dataset used for the assignment
+├──SA2025_W1.ipynb  # Jupyter Notebook containing the assignment solution  
 └──Summer Analytics 2025-2.pdf  
 
 Instructions to Run
