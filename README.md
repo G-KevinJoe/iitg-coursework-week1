@@ -12,9 +12,12 @@ Description
 This repository contains my solution for the first assignment of Summer Analytics 2025. The assignment focuses on data analysis skills using Python, Pandas, and NumPy. The dataset used is Cars.csv, and the solution is implemented in a Jupyter Notebook.
 
 Repository Structure
+
 Week_1/     
 ├── Cars.csv   # Dataset used for the assignment
+
 ├──SA2025_W1.ipynb  # Jupyter Notebook containing the assignment solution  
+
 └──Summer Analytics 2025-2.pdf  
 
 Instructions to Run
