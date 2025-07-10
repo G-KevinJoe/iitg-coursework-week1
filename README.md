@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1.0%2B-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red)
 
-## 📌 Assignment Details  WEEK 1
+# 📌 WEEK 1 Assignment Details.
 - **Course**: Summer Analytics 2025  
 - **Assignment**: Data Analysis Practice Assignment  
 - **Dataset**: [`Cars.csv`](Week_1/Cars.csv)  
@@ -25,7 +25,7 @@ Week_1/
 └── Summer Analytics 2025-2.pdf  # Assignment instructions (PDF)
 ```
 
-## 📌 Assignment Details - WEEK 2
+# 📌 WEEK 2 Assignment Details.
 #  NDVI Classification for Agricultural Analysis
 
 This project leverages NDVI (Normalized Difference Vegetation Index) time-series data to classify crop health or land types using statistical and machine learning techniques. It uses logistic regression with feature engineering and calibrated classification.
@@ -81,7 +81,8 @@ The model achieves stable performance across folds with high accuracy and reliab
 
 ---
 
-# WEEK 5- Dynamic Pricing for Urban Parking Lots
+# 📌 WEEK 5 Assignment Details.
+## Dynamic Pricing for Urban Parking Lots
 
 > **Capstone Project** of Summer Analytics 2025  
 > Hosted by Consulting & Analytics Club × Pathway
