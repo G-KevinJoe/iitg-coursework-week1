@@ -133,22 +133,5 @@ flowchart LR
 
 ---
 
-## 🔓 Repository Access
-
-- Ensure your GitHub repository is **public**  
-- Or grant **read** access to reviewers  
-- Link: `https://github.com/<your‑username>/dynamic-parking-pricing`
-
----
-
-## 📚 Additional Documentation
-
-- **Report (Optional):** If you have a detailed PDF report, add it as `Report.pdf`  
-- **Notes:**  
-  - Document assumptions in demand functions  
-  - Include any trade‑offs or smoothing strategies  
-
----
-
-> _Developed by_ **[Your Name]** – Summer Analytics 2025 Capstone  
+> _Developed by_ **Kevin Joe Prakash** – Summer Analytics 2025 Capstone  
 > _Questions or feedback?_ Please open an issue or contact via GitHub.
