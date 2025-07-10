@@ -37,16 +37,16 @@ Please see the full problem statement in [problem_statement.pdf](./problem_state
 
 ```mermaid
 flowchart LR
-  A[Raw Parking Data<br/>(CSV; 14 lots × 73 days)] --> B[Pathway Simulation<br/>(ingest & stream)]
-  B --> C[Feature Engineering]<br/>(occupancy rate, queue, traffic, events)
-  C --> D[Pricing Engine]
-  D --> D1[Model 1:<br/>Baseline Linear]
-  D --> D2[Model 2:<br/>Demand‑Based]
-  D --> D3[Model 3:<br/>Competitive]
-  D1 & D2 & D3 --> E[Price Output<br/>($ per lot)]
-  F[Competitor Data<br/>(geo + prices)] --> D3
-  E --> G[Bokeh Visualizations]
-  G --> H[Dashboard & Insights]
+  A["Raw Parking Data\n(CSV; 14 lots × 73 days)"] --> B["Pathway Simulation\n(ingest & stream)"]
+  B --> C["Feature Engineering\n(occupancy rate, queue, traffic, events)"]
+  C --> D["Pricing Engine"]
+  D --> D1["Model 1:\nBaseline Linear"]
+  D --> D2["Model 2:\nDemand‑Based"]
+  D --> D3["Model 3:\nCompetitive"]
+  D1 & D2 & D3 --> E["Price Output\n($ per lot)"]
+  F["Competitor Data\n(geo + prices)"] --> D3
+  E --> G["Bokeh Visualizations"]
+  G --> H["Dashboard & Insights"]
 ```
 
 ---
